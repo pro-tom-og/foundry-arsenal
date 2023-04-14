@@ -2,7 +2,7 @@
   "id": "tm-arsenal",
   "title": "tm-arsenal",
   "description": "Dieses Modul beinhaltet Bilder, Sounds, Actors, Items, etc.., die immer wieder gebraucht werden.",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "compatibility": {
     "minimum": "10",
     "verified": "10",
@@ -86,7 +86,7 @@
   ],
   "url": "https://github.com/pro-tom-og/foundry-arsenal/",
   "manifest": "https://github.com/pro-tom-og/foundry-arsenal/releases/latest/download/module.json",
-  "download": "https://github.com/pro-tom-og/foundry-arsenal/releases/download/2.1.6/module.zip"
+  "download": "https://github.com/pro-tom-og/foundry-arsenal/releases/download/2.1.7/module.zip"
 
   
 }
